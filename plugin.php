@@ -8,3 +8,5 @@ function test_monorepo_1_activate(){}
 register_activation_hook(__FILE__, 'test_monorepo_1_activate');
 
 function foo(){}
+
+function bar(){}
