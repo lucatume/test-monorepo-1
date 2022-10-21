@@ -14,3 +14,4 @@ function from_github_2(){}
 function from_monorepo_again_3(){}
 function from_monorepo_again_4(){}
 function from_github_3(){}
+function from_github_pr1(){}
